@@ -4,7 +4,7 @@
 
 Projeto do Vídeo Q1063 Série **_Trilha Do Inventor_** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/hEl94mntsa4)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/9QSWYr2v9-w)
 
 
 - Confira esse e outros projetos de CNC assistindo a Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMdUf3vpzIk4yqW8rQg70BNw)
